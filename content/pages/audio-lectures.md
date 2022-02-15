@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Audio
+ocw_type: CourseSection
 title: Lecture Audio and Slides
 uid: 1e3d365b-df60-f448-13b1-1844856e8ada
 ---
