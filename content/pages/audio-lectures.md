@@ -1,259 +1,116 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course,
+  lecture slides, and audio recordings of the lectures.
+draft: false
 learning_resource_types:
 - Lecture Audio
 ocw_type: CourseSection
 title: Lecture Audio and Slides
 uid: 1e3d365b-df60-f448-13b1-1844856e8ada
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 SLIDES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 AUDIO
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF - 1.5MB]({{< baseurl >}}/resources/mit2_997f09_lec01))
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-iTunes U ([MP3 - 19MB](http://itunes.apple.com/us/podcast/lecture-1-introduction/id391500439?i=87015497))  
+{{< tdclose >}}{{< tdopen >}}
+({{% resource_link 2feb5e3e-745e-a36f-d104-3b584c52c934 "PDF - 1.5MB" %}})
+{{< tdclose >}}{{< tdopen >}}
 Internet Archive ([MP3 - 19MB](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec01.mp3))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Thermoelectric effect and thermoelectric devices
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mit2_997f09_lec02))
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-iTunes U ([MP3 - 20MB](http://itunes.apple.com/us/podcast/lecture-2-thermoelectric-effect/id391500439?i=87015494))  
+{{< tdclose >}}{{< tdopen >}}
+({{% resource_link 89e10467-14ca-8bef-32af-c6f81528c7fa "PDF - 1.3MB" %}})
+{{< tdclose >}}{{< tdopen >}}
 Internet Archive ([MP3 - 20MB](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec02.mp3))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Energy states in matter
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_997f09_lec03))
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-iTunes U ([MP3 - 19MB](http://itunes.apple.com/us/podcast/lecture-3-energy-states-in/id391500439?i=87015499))  
+{{< tdclose >}}{{< tdopen >}}
+({{% resource_link 0ceab196-ec38-d59b-4d32-5b0d6a7ea889 "PDF" %}})
+{{< tdclose >}}{{< tdopen >}}
 Internet Archive ([MP3 - 19MB](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec03.mp3))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Kinetic formulation of thermoelectricity
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_997f09_lec04))
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-iTunes U ([MP3 - 20MB](http://itunes.apple.com/us/podcast/lecture-4-kinetic-formulation/id391500439?i=87015492))  
+{{< tdclose >}}{{< tdopen >}}
+({{% resource_link 92027c5e-8f92-04f1-12bf-82120120b84a "PDF" %}})
+{{< tdclose >}}{{< tdopen >}}
 Internet Archive ([MP3 - 20MB](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec04.mp3))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Current research on thermoelectric materials
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF - 1.9MB]({{< baseurl >}}/resources/mit2_997f09_lec05))
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-iTunes U ([MP3 - 20MB](http://itunes.apple.com/us/podcast/lecture-5-current-research/id391500439?i=87015493))  
+{{< tdclose >}}{{< tdopen >}}
+({{% resource_link 9c41664e-d0c7-1772-e1d7-8098033482ad "PDF - 1.9MB" %}})
+{{< tdclose >}}{{< tdopen >}}
 Internet Archive ([MP3 - 20MB](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec05.mp3))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Thermionic power conversion
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_997f09_lec06))
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-iTunes U ([MP3 - 20MB](http://itunes.apple.com/us/podcast/lecture-6-thermionic-power/id391500439?i=87015500))  
+{{< tdclose >}}{{< tdopen >}}
+({{% resource_link c3c3a5b8-bbaf-7e55-fc83-a9ced6374f36 "PDF" %}})
+{{< tdclose >}}{{< tdopen >}}
 Internet Archive ([MP3 - 20MB](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec06.mp3))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Photovoltaic cells
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mit2_997f09_lec07))
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-iTunes U ([MP3 - 18MB](http://itunes.apple.com/us/podcast/lecture-7-photovoltaic-cells/id391500439?i=87015498))  
+{{< tdclose >}}{{< tdopen >}}
+({{% resource_link 805ea568-566d-bd94-7b0d-8a50fad072d0 "PDF - 1.2MB" %}})
+{{< tdclose >}}{{< tdopen >}}
 Internet Archive ([MP3 - 18MB](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec07.mp3))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Radiative heat transfer
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF - 1.0MB]({{< baseurl >}}/resources/mit2_997f09_lec08))
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-iTunes U ([MP3 - 18MB](http://itunes.apple.com/us/podcast/lecture-8-radiative-heat-transfer/id391500439?i=87015496))  
+{{< tdclose >}}{{< tdopen >}}
+({{% resource_link e4e64170-a22c-7c7e-507f-07d1c157dc10 "PDF - 1.0MB" %}})
+{{< tdclose >}}{{< tdopen >}}
 Internet Archive ([MP3 - 18MB](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec08.mp3))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Solar concentration and solar thermal technology
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF - 1.4MB]({{< baseurl >}}/resources/mit2_997f09_lec09))
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-iTunes U ([MP3 - 19MB](http://itunes.apple.com/us/podcast/lecture-9-solar-concentration/id391500439?i=87015495))  
+{{< tdclose >}}{{< tdopen >}}
+({{% resource_link 5c572670-4689-ebb5-5d2b-43730fe810c4 "PDF - 1.4MB" %}})
+{{< tdclose >}}{{< tdopen >}}
 Internet Archive ([MP3 - 19MB](http://www.archive.org/download/MIT2.997F09/MIT2_997F09_lec09.mp3))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Guest Lecture: Chris Schuh, "Nanostructured Materials: Stability Against Thermal Coarsening."
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 (slides not available)
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 (audio not available)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Guest Lecture: Ivan Čelanović, "Photonic Crystals: Shaping the Flow of Thermal Radiation."
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF - 5.9MB]({{< baseurl >}}/resources/mit2_997f09_lec11)) (Courtesy of Ivan Čelanović. Used with permission.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+({{% resource_link 30780f97-5c0d-804a-7326-7837da197542 "PDF - 5.9MB" %}}) (Courtesy of Ivan Čelanović. Used with permission.)
+{{< tdclose >}}{{< tdopen >}}
 (audio not available)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Applications of thermoelectrics and photovoltaics
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_997f09_lec12))
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+({{% resource_link 055b06f1-8b45-4f13-4e86-dbc83d7f673e "PDF" %}})
+{{< tdclose >}}{{< tdopen >}}
 (audio not available)
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
